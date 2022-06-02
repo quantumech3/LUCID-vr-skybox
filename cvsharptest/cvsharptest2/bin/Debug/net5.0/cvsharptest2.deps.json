@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "cvsharptest2/1.0.0": {
+        "runtime": {
+          "cvsharptest2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cvsharptest2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
